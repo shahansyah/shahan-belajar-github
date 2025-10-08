@@ -6,3 +6,4 @@ shahan belajar
 
 -harus menjadi lebih baik
 
+-fundamental data structure
